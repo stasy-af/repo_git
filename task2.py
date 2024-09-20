@@ -1,3 +1,4 @@
 a = int(input())
 b = int(input())
-print("Multiplication ", a * b)
+print("Multiplication =", a * b)
+div = a / b
