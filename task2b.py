@@ -1,4 +1,5 @@
 a = int(input())
 b = int(input())
+print("Multiplicaton = ", a * b)
 print("Division = ", a / b)
 print(a, "in the power of ", b, '=', a ** b)
